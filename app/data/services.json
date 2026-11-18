@@ -1,0 +1,5 @@
+[
+  {"name": "Amazon EC2", "model": "IaaS", "description": "Виртуальные машины"},
+  {"name": "Google App Engine", "model": "PaaS", "description": "Платформа для запуска приложений"},
+  {"name": "Google Docs", "model": "SaaS", "description": "Онлайн-редактор документов"}
+]
