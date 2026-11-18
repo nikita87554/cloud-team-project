@@ -7,7 +7,7 @@
 
 ## 1. Ссылка на репозиторий
 
-https://github.com/<логин>/cloud-team-project
+https://github.com/nikita87554/cloud-team-project
 
 ## 2. Назначение проекта
 
@@ -57,7 +57,7 @@ Cloud Team Project — учебное веб-приложение на Python (F
 
 ## 6. Commit / Pull Request
 
-Ссылка на commit: https://github.com/<логин>/cloud-team-project/commit/<hash>
+Ссылка на commit: https://github.com/nikita87554/cloud-team-project/pull/1
 
 Сообщение commit: `docs: добавить README.md с описанием архитектуры и инструкцией по запуску`
 
